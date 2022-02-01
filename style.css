@@ -1,0 +1,10 @@
+body {
+  background: blue;
+  background-image: url("./images/windows.jpeg");
+}
+h1 {
+  color: green;
+}
+h2 {
+  color: white;
+}
